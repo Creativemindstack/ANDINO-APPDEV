@@ -1,5 +1,7 @@
 # 🎥MY FAVORITE TV SERIES OF ALL TIME🎥
 
+<img width="595" height="336" alt="image" src="https://github.com/user-attachments/assets/5dee649b-0e41-4687-bfcc-5ff1b4ec2489" />
+
 ## THE ROOKIE
 
 **Overview of The Rookie**
@@ -9,7 +11,7 @@
 - **Inspiration**:  Based on real-life LAPD officer William Norcross.
 
 ***Main Cast***
- - **Nathan Fillion** as John Nolan
+ - **Nathan Fillion** as John Nolan 
  - **Melissa O'Neil** as Lucy Chen
  - **Eric Winter** as Tim Bradford
  - **Richard T. Jones** as Wade Grey
